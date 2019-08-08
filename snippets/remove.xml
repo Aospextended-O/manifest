@@ -142,4 +142,5 @@
   <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/system/connectivity/wificond" />
+  <remove-project name="platform/system/gatekeeper" />
 </manifest>
