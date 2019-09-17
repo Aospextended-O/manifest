@@ -135,6 +135,7 @@
   <!-- External -->
   <project path="external/bash" name="android_external_bash" remote="los" />
   <project path="external/brctl" name="android_external_brctl" remote="los" />
+  <project path="external/chromium-libpac" name="android_external_chromium-libpac" groups="pdk" remote="los" />
   <project path="external/powertop" name="android_external_powertop" remote="los" />
   <project path="external/connectivity" name="android_external_connectivity" groups="pdk" remote="los" />
   <project path="external/ebtables" name="android_external_ebtables" groups="pdk" remote="los" />
@@ -143,6 +144,7 @@
   <project path="external/htop" name="android_external_htop" remote="los" />
   <project path="external/json-c" name="android_external_json-c" remote="los" />
   <project path="external/libavc" name="android_external_libavc" groups="pdk" remote="los" />
+  <project path="external/libcups" name="android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="los" />
   <project path="external/libhevc" name="android_external_libhevc" groups="pdk" remote="los"/>
   <project path="external/libncurses" name="android_external_libncurses" remote="los" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="los" />
@@ -150,6 +152,7 @@
   <project path="external/libtar" name="android_external_libtar" remote="los" />
   <project path="external/libdrm" name="android_external_libdrm" groups="pdk" remote="los" />
   <project path="external/libmpeg2" name="android_external_libmpeg2" groups="pdk" remote="los" />
+  <project path="external/libvpx" name="android_external_libvpx" groups="pdk" remote="los" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" remote="los" />
   <project path="external/nano" name="android_external_nano" remote="los" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" />
