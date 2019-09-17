@@ -143,4 +143,9 @@
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/system/connectivity/wificond" />
   <remove-project name="platform/system/gatekeeper" />
+  <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/wpa_supplicant_8" />
+  <remove-project name="platform/prebuilts/misc" />
+  <remove-project name="platform/external/icu" />
+  <remove-project name="platform/system/timezone" />
 </manifest>
