@@ -148,4 +148,5 @@
   <remove-project name="platform/prebuilts/misc" />
   <remove-project name="platform/external/icu" />
   <remove-project name="platform/system/timezone" />
+  <remove-project name="platform/external/chromium-webview" />
 </manifest>
