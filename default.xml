@@ -12,6 +12,10 @@
            fetch="https://github.com/AospExtended"
            revision="refs/heads/8.1.x" />
 
+  <remote  name="aex-o"
+           fetch="https://github.com/AospExtended-O"
+           revision="refs/heads/8.1.x" />
+
   <remote  name="aex-devices"
            fetch="https://github.com/AospExtended-Devices" 
            revision="refs/heads/8.1.x" />
