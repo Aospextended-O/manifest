@@ -149,7 +149,8 @@
   <project path="external/json-c" name="android_external_json-c" remote="los" />
   <project path="external/libavc" name="android_external_libavc" groups="pdk" remote="los" />
   <project path="external/libcups" name="android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="los" />
-  <project path="external/libhevc" name="android_external_libhevc" groups="pdk" remote="los"/>
+  <project path="external/libhevc" name="android_external_libhevc" groups="pdk" remote="los" />
+  <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" groups="pdk" remote="los" />
   <project path="external/libpng" name="android_external_libpng" groups="pdk" remote="los" />
   <project path="external/libncurses" name="android_external_libncurses" remote="los" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="los" />
@@ -158,6 +159,7 @@
   <project path="external/libdrm" name="android_external_libdrm" groups="pdk" remote="los" />
   <project path="external/libmpeg2" name="android_external_libmpeg2" groups="pdk" remote="los" />
   <project path="external/libvpx" name="android_external_libvpx" groups="pdk" remote="los" />
+  <project path="external/libcxx" name="android_external_libcxx" groups="pdk" remote="los" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" remote="los" />
   <project path="external/nano" name="android_external_nano" remote="los" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" />
